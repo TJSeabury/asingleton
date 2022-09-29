@@ -1,0 +1,2 @@
+# asingleton
+Abstract singleton class.
