@@ -1,2 +1,2 @@
-# asingleton
+# AbstractSingleton
 Abstract singleton class.
