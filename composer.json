@@ -1,0 +1,19 @@
+{
+  "name": "ardent.intent/asingleton",
+  "description": "Abstract singleton class.",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "ArdentIntent\\Asingleton\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Tyler Seabury",
+      "email": "ardent.intent@pm.me"
+    }
+  ],
+  "require": {}
+}
